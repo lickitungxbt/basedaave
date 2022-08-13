@@ -11,7 +11,9 @@
  -/:             :/-  -/:             :/.     ://:         `/////////////-
 ```
 
-# Aave protocol interface :ghost:
+# Aave protocol interface w/o bullshit Sanctions & Compliance Screening :ghost:
+
+You must build from source!
 
 An open source interface for the decentralized liquidity protocol Aave
 
